@@ -1,35 +1,68 @@
-<h1 align="center">Hi 👋, I'm Hossam Fadil</h1>
-<h3 align="center">Am IT and Data Engineering Student.</h3>
+<h1 align="center">Hi 👋, I'm Anas Slimani</h1>
+<h3 align="center">A passionate Computer Engineering Student from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f-hossam&label=Profile%20views&color=0e75b6&style=flat" alt="f-hossam" /> </p>
-
-- 💻 I’m currently working on : **my Portofolio**
-
-- 🌱 I’m currently learning : **Data Engineering**
-
-- 👯 I’m looking to collaborate on : **Python, Java and Nextjs**
-
-- 🤝 I’m looking for help with : **Python, Java, Nextjs**
-
-- 💬 Ask me about : **Python, Java and Nextjs**
-
-- 📫 You can reach me on : **My social links below**
-
-- ⚡ Fun fact about me : **I love solving bugs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/1hossamdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsm1f" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hossam-fadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam-fadil" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnasSlimani&label=Profile%20views&color=0e75b6&style=flat" alt="AnasSlimani" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="android_studio" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs_code" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="vs_code" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="vs_code" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="vs_code" width="40" height="40"/> </a><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="vs_code" width="40" height="40"/> </a><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="vs_code" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="vs_code" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="vs_code" width="40" height="40"/> </a></p>
+- 🎓 I'm currently pursuing a **Computer Engineering degree** at ENSA Khouribga  
+- 🔎 I'm looking for a **PFA internship**  
+- 💻 I’m currently working on: **Sport Club Web Platform**  
+- 🌱 I’m currently learning: **Spring Boot, React & Docker**  
+- 👯 I’m open to collaborating on: **Java, C++, React.js, Next.js**  
+- 🧠 My strong areas: **Frontend development, Web applications, Data modeling**  
+- 📫 Reach me at: **anasslimani039@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=f-hossam&show_icons=true&locale=en&layout=compact" alt="f-hossam" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f-hossam&show_icons=true&locale=en" alt="f-hossam" /></p>
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/anas-slimani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-slimani" height="30" width="40" /></a>
+  <a href="https://github.com/AnasSlimani" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f-hossam&" alt="f-hossam" /></p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f-hossam" alt="f-hossam" /></a> </p>
+### 🛠️ Technologies & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasSlimani&layout=compact&theme=default" alt="Top Languages" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnasSlimani&show_icons=true&locale=en&theme=default" alt="Anas's GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnasSlimani&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Achievements & Certifications
+- 📜 The Complete 2024 Web Development Bootcamp (Udemy)  
+- 📜 Modern React Masterclass (Udemy)  
+- 📜 TCF Niveau B2  
+- 🏅 Head of Media Cell – Open Source Days 13  
+- 🎨 Media Manager – University Sports Club
+
+---
+
+> ✨ _"I believe in solving real problems through clean, scalable code."_  
+> 🔍 _Always open to learning, collaboration, and growth._
+
