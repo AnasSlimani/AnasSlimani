@@ -6,12 +6,13 @@
 </p>
 
 - 🎓 I'm currently pursuing a **Computer Engineering degree** at ENSA Khouribga  
-- 🔎 I'm looking for a **PFA internship**  
-- 💻 I’m currently working on: **Sport Club Web Platform**  
-- 🌱 I’m currently learning: **Spring Boot, React & Docker**  
-- 👯 I’m open to collaborating on: **Java, C++, React.js, Next.js**  
-- 🧠 My strong areas: **Frontend development, Web applications, Data modeling**  
+- 🔎 I'm looking for a **PFE internship**  
+- 💻 I’m currently working on: **Intelligent Medical Management Web Application**  
+- 🌱 I’m currently learning: **Angular, Kubernetes & other tools of Devops**  
+- 👯 I’m open to collaborating on: **Java, SpringBoot, React.js, Next.js**  
+- 🧠 My strong areas: **Full Stack development, Automatisation, CI/CD pipelines**  
 - 📫 Reach me at: **anasslimani039@gmail.com**
+- 🌐 My Portfolio : https://anasportfolio-chi.vercel.app/
 
 ---
 
