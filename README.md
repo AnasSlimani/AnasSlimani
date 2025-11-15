@@ -12,7 +12,7 @@
 - 👯 I’m open to collaborating on: **Java, SpringBoot, React.js, Next.js**  
 - 🧠 My strong areas: **Full Stack development, Automatisation, CI/CD pipelines**  
 - 📫 Reach me at: **anasslimani039@gmail.com**
-- 🌐 My Portfolio : https://anasportfolio-chi.vercel.app/
+- 🌐 My Portfolio : **https://anasportfolio-chi.vercel.app/**
 
 ---
 
