@@ -58,7 +58,6 @@
 ### 🏆 Achievements & Certifications
 - 📜 The Complete 2024 Web Development Bootcamp (Udemy)  
 - 📜 Modern React Masterclass (Udemy)  
-- 📜 TCF Niveau B2  
 - 🏅 Head of Media Cell – Open Source Days 13  
 - 🎨 Media Manager – University Sports Club
 
